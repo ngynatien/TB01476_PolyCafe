@@ -16,5 +16,11 @@ namespace GUI_Poly
         {
             InitializeComponent();
         }
+
+        private void đổiMậtKhẩuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmDoimatkhau reset = new frmDoimatkhau();
+            reset.ShowDialog();
+        }
     }
 }

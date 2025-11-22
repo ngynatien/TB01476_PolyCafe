@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using BLL_Poly;
 using DTO_Poly;
+using UTIL_Poly;
 
 namespace GUI_Poly
 {
@@ -36,7 +37,7 @@ namespace GUI_Poly
                     MessageBox.Show(this, "Tài khoản đang tạm khóa, vui lòng liên hệ Admin!");
                     return;
                 }
-                //AuthUtil.user = nv;
+                AuthUtil.user = nv;
                 frmMain main = new frmMain();
                 main.Show();
                 this.Hide();

@@ -15,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BLL_Poly\BLL_Poly.csproj" />
     <ProjectReference Include="..\DTO_Poly\DTO_Poly.csproj" />
+    <ProjectReference Include="..\UTIL_PolyCafe\UTIL_Poly.csproj" />
   </ItemGroup>
 
 </Project>

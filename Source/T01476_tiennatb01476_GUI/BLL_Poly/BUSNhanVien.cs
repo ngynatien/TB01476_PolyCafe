@@ -19,5 +19,21 @@ namespace BLL_Poly
             }
             return dalNhanVien.getNhanVien(username, password);
         }
+        public bool ResetMatKhau(string email,  string password)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty (email) || string.IsNullOrEmpty (password))
+                {
+                    return false;
+                }
+                dalNhanVien.ResetMatKhau(password, email);
+                return true;
+            }
+            catch(Exception ex) 
+            {
+                return false;
+            }
+        }
     }
 }
