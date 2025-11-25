@@ -35,5 +35,9 @@ namespace BLL_Poly
                 return false;
             }
         }
+        public List<NhanVien> GetNhanVienList()
+        {
+            return dalNhanVien.selectAll();
+        }
     }
 }
