@@ -28,6 +28,15 @@ namespace GUI_Poly
             BUSNhanVien bUSNhanVien = new BUSNhanVien();
             dgvdanhsachnhanvien.DataSource = null;
             dgvdanhsachnhanvien.DataSource = bUSNhanVien.GetNhanVienList();
+
+            dgvdanhsachnhanvien.Columns["MaNhanVien"].HeaderText = "Mã Nhân Viên";
+            dgvdanhsachnhanvien.Columns["HoTen"].HeaderText = "Họ Tên";
+            dgvdanhsachnhanvien.Columns["Email"].HeaderText = "Email";
+            dgvdanhsachnhanvien.Columns["MatKhau"].HeaderText = "MatKhau";
+            dgvdanhsachnhanvien.Columns["VaiTro"].Visible = false;
+            dgvdanhsachnhanvien.Columns["TrangThai"].Visible = false;
+            dgvdanhsachnhanvien.Columns["TrangThaiText"].HeaderText = "Trạng Thái";
+            dgvdanhsachnhanvien.Columns["VaiTroText"].HeaderText = "Vai Trò";
         }
         private void ClearForm()
         {
