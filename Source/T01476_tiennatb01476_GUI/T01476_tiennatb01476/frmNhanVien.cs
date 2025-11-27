@@ -260,5 +260,11 @@ namespace GUI_Poly
 
             }
         }
+
+        private void btbreset_Click(object sender, EventArgs e)
+        {
+            ClearForm();
+            LoadDanhSachNhanVien();
+        }
     }
 }

@@ -153,6 +153,7 @@
             btbreset.Size = new Size(83, 50);
             btbreset.TabIndex = 18;
             btbreset.Text = "Reset";
+            btbreset.Click += btbreset_Click;
             // 
             // btbxoa
             // 
