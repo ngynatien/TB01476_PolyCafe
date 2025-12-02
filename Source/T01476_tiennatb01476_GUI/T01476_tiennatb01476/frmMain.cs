@@ -44,5 +44,10 @@ namespace GUI_Poly
         {
             openChildForm(new frmNhanVien());
         }
+
+        private void thẻLưuĐộngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openChildForm(new frmTheLuuDong());
+        }
     }
 }

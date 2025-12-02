@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\t01476_tiennatb01476\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\t01476_tiennatb01476\\frmtheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmtheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\t01476_tiennatb01476\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EAED8A0-BFD6-471B-B8A0-3A7A5BE4D47A}|DAL_Poly\\DAL_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\dal_poly\\dalnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAED8A0-BFD6-471B-B8A0-3A7A5BE4D47A}|DAL_Poly\\DAL_Poly.csproj|solutionrelative:dal_poly\\dalnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{2A414C25-1988-4C7C-82B7-F3A7E930A9C7}|DTO_Poly\\DTO_Poly.csproj|solutionrelative:dto_poly\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\t01476_tiennatb01476\\frmtheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmtheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EAED8A0-BFD6-471B-B8A0-3A7A5BE4D47A}|DAL_Poly\\DAL_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\dal_poly\\daltheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EAED8A0-BFD6-471B-B8A0-3A7A5BE4D47A}|DAL_Poly\\DAL_Poly.csproj|solutionrelative:dal_poly\\daltheluudong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,24 +59,12 @@
       "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\t01476_tiennatb01476\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\t01476_tiennatb01476\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11A293C0-99FA-4068-BEE9-5162FAE1268D}|UTIL_PolyCafe\\UTIL_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\util_polycafe\\authutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11A293C0-99FA-4068-BEE9-5162FAE1268D}|UTIL_PolyCafe\\UTIL_Poly.csproj|solutionrelative:util_polycafe\\authutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|solutionrelative:t01476_tiennatb01476\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF067C1E-9087-4597-AF4F-B5273C97A8F7}|T01476_tiennatb01476\\GUI_Poly.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\hl sof\\tb01476_polycafe\\source\\t01476_tiennatb01476_gui\\t01476_tiennatb01476\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,71 +127,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DALNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALNhanVien.cs",
-              "RelativeDocumentMoniker": "DAL_Poly\\DALNhanVien.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALNhanVien.cs",
-              "RelativeToolTip": "DAL_Poly\\DALNhanVien.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "T01476_tiennatb01476\\frmSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:40:11.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T03:15:57.593Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BUSNhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSNhanVien.cs",
-              "RelativeDocumentMoniker": "BLL_Poly\\BUSNhanVien.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSNhanVien.cs",
-              "RelativeToolTip": "BLL_Poly\\BUSNhanVien.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:39:50.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DTO_Poly\\NhanVien.cs",
-              "RelativeDocumentMoniker": "DTO_Poly\\NhanVien.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DTO_Poly\\NhanVien.cs",
-              "RelativeToolTip": "DTO_Poly\\NhanVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:39:41.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BUSTheLuuDong.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSTheLuuDong.cs",
-              "RelativeDocumentMoniker": "BLL_Poly\\BUSTheLuuDong.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSTheLuuDong.cs",
-              "RelativeToolTip": "BLL_Poly\\BUSTheLuuDong.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwEIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T03:49:44.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DALTheLuuDong.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALTheLuuDong.cs",
-              "RelativeDocumentMoniker": "DAL_Poly\\DALTheLuuDong.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALTheLuuDong.cs",
-              "RelativeToolTip": "DAL_Poly\\DALTheLuuDong.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwGQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T04:27:42.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "frmTheLuuDong.cs [Design]",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmTheLuuDong.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmTheLuuDong.cs",
@@ -199,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "DTO_Poly.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DTO_Poly\\DTO_Poly.csproj",
               "RelativeDocumentMoniker": "DTO_Poly\\DTO_Poly.csproj",
@@ -207,12 +158,109 @@
               "RelativeToolTip": "DTO_Poly\\DTO_Poly.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-15T04:20:07.014Z",
+              "WhenOpened": "2025-11-15T04:20:07.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs",
+              "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs [Design]",
+              "RelativeToolTip": "T01476_tiennatb01476\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:58:18.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "T01476_tiennatb01476\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:59:49.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DALTheLuuDong.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALTheLuuDong.cs",
+              "RelativeDocumentMoniker": "DAL_Poly\\DALTheLuuDong.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALTheLuuDong.cs",
+              "RelativeToolTip": "DAL_Poly\\DALTheLuuDong.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwGQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T04:27:42.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DALNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALNhanVien.cs",
+              "RelativeDocumentMoniker": "DAL_Poly\\DALNhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DALNhanVien.cs",
+              "RelativeToolTip": "DAL_Poly\\DALNhanVien.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwJAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:40:11.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs",
+              "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs",
+              "RelativeToolTip": "T01476_tiennatb01476\\frmMain.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:17:43.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BUSTheLuuDong.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSTheLuuDong.cs",
+              "RelativeDocumentMoniker": "BLL_Poly\\BUSTheLuuDong.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSTheLuuDong.cs",
+              "RelativeToolTip": "BLL_Poly\\BUSTheLuuDong.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:49:44.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DTO_Poly\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DTO_Poly\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DTO_Poly\\NhanVien.cs",
+              "RelativeToolTip": "DTO_Poly\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:39:41.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BUSNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSNhanVien.cs",
+              "RelativeDocumentMoniker": "BLL_Poly\\BUSNhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BUSNhanVien.cs",
+              "RelativeToolTip": "BLL_Poly\\BUSNhanVien.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T04:39:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DBUtil.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DBUtil.cs",
               "RelativeDocumentMoniker": "DAL_Poly\\DBUtil.cs",
@@ -220,12 +268,11 @@
               "RelativeToolTip": "DAL_Poly\\DBUtil.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T04:22:25.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T04:22:25.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "frmTheLuuDong.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmTheLuuDong.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmTheLuuDong.cs",
@@ -233,23 +280,11 @@
               "RelativeToolTip": "T01476_tiennatb01476\\frmTheLuuDong.cs",
               "ViewState": "AgIAALEAAAAAAAAAAAASwMMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T04:07:16.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T04:07:16.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmNhanVien.cs",
-              "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmNhanVien.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmNhanVien.cs [Design]",
-              "RelativeToolTip": "T01476_tiennatb01476\\frmNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T02:59:49.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "frmNhanVien.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmNhanVien.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmNhanVien.cs",
@@ -257,23 +292,11 @@
               "RelativeToolTip": "T01476_tiennatb01476\\frmNhanVien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcBAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T03:28:47.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T03:28:47.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs",
-              "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmMain.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs [Design]",
-              "RelativeToolTip": "T01476_tiennatb01476\\frmMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T03:58:18.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AuthUtil.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\UTIL_PolyCafe\\AuthUtil.cs",
               "RelativeDocumentMoniker": "UTIL_PolyCafe\\AuthUtil.cs",
@@ -285,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\Program.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\Program.cs",
@@ -297,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmLogin.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmLogin.cs",
@@ -310,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "frmDoimatkhau.cs [Design]",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmDoimatkhau.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmDoimatkhau.cs",
@@ -321,19 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs",
-              "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmMain.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmMain.cs",
-              "RelativeToolTip": "T01476_tiennatb01476\\frmMain.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwCwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T04:17:43.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmDoimatkhau.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmDoimatkhau.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmDoimatkhau.cs",
@@ -345,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "GUI_Poly.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\GUI_Poly.csproj",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\GUI_Poly.csproj",
@@ -357,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UTIL_Poly.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\UTIL_PolyCafe\\UTIL_Poly.csproj",
               "RelativeDocumentMoniker": "UTIL_PolyCafe\\UTIL_Poly.csproj",
@@ -369,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\T01476_tiennatb01476\\frmLogin.cs",
               "RelativeDocumentMoniker": "T01476_tiennatb01476\\frmLogin.cs",
@@ -380,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "HelperUtil.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\UTIL_PolyCafe\\HelperUtil.cs",
               "RelativeDocumentMoniker": "UTIL_PolyCafe\\HelperUtil.cs",
@@ -392,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "BLL_Poly.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\BLL_Poly.csproj",
               "RelativeDocumentMoniker": "BLL_Poly\\BLL_Poly.csproj",
@@ -404,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DAL_Poly.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DAL_Poly\\DAL_Poly.csproj",
               "RelativeDocumentMoniker": "DAL_Poly\\DAL_Poly.csproj",
@@ -416,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\DTO_Poly\\Class1.cs",
               "RelativeDocumentMoniker": "DTO_Poly\\Class1.cs",
@@ -428,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\HL SOF\\TB01476_PolyCafe\\Source\\T01476_tiennatb01476_GUI\\BLL_Poly\\Class1.cs",
               "RelativeDocumentMoniker": "BLL_Poly\\Class1.cs",
