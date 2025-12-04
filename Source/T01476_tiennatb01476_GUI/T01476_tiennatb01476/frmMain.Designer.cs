@@ -90,14 +90,15 @@
             // loạiSảnPhẩmToolStripMenuItem
             // 
             loạiSảnPhẩmToolStripMenuItem.Name = "loạiSảnPhẩmToolStripMenuItem";
-            loạiSảnPhẩmToolStripMenuItem.Size = new Size(189, 26);
+            loạiSảnPhẩmToolStripMenuItem.Size = new Size(224, 26);
             loạiSảnPhẩmToolStripMenuItem.Text = "Loại Sản Phẩm";
             // 
             // sảnPhẩmToolStripMenuItem
             // 
             sảnPhẩmToolStripMenuItem.Name = "sảnPhẩmToolStripMenuItem";
-            sảnPhẩmToolStripMenuItem.Size = new Size(189, 26);
+            sảnPhẩmToolStripMenuItem.Size = new Size(224, 26);
             sảnPhẩmToolStripMenuItem.Text = "Sản Phẩm";
+            sảnPhẩmToolStripMenuItem.Click += sảnPhẩmToolStripMenuItem_Click;
             // 
             // bánHàngToolStripMenuItem
             // 
@@ -109,14 +110,14 @@
             // thẻLưuĐộngToolStripMenuItem
             // 
             thẻLưuĐộngToolStripMenuItem.Name = "thẻLưuĐộngToolStripMenuItem";
-            thẻLưuĐộngToolStripMenuItem.Size = new Size(224, 26);
+            thẻLưuĐộngToolStripMenuItem.Size = new Size(197, 26);
             thẻLưuĐộngToolStripMenuItem.Text = "Thẻ Lưu Động";
             thẻLưuĐộngToolStripMenuItem.Click += thẻLưuĐộngToolStripMenuItem_Click;
             // 
             // phiếuBánHàngToolStripMenuItem
             // 
             phiếuBánHàngToolStripMenuItem.Name = "phiếuBánHàngToolStripMenuItem";
-            phiếuBánHàngToolStripMenuItem.Size = new Size(224, 26);
+            phiếuBánHàngToolStripMenuItem.Size = new Size(197, 26);
             phiếuBánHàngToolStripMenuItem.Text = "Phiếu Bán Hàng";
             // 
             // nhânViênToolStripMenuItem

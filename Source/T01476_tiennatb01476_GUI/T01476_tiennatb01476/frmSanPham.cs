@@ -16,5 +16,10 @@ namespace GUI_Poly
         {
             InitializeComponent();
         }
+
+        private void btbthem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
