@@ -87,7 +87,7 @@ namespace DAL_Poly
                 throw;
             }
         }
-        public void deleLoaiSanPham(string maLoai)
+        public void deleteLoaiSanPham(string maLoai)
         {
             try
             {

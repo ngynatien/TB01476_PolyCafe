@@ -44,25 +44,21 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges15 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges16 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges17 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges18 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges19 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges20 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             DataGridViewCellStyle dataGridViewCellStyle1 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle2 = new DataGridViewCellStyle();
             DataGridViewCellStyle dataGridViewCellStyle3 = new DataGridViewCellStyle();
             label1 = new Label();
             groupBox1 = new GroupBox();
+            cboLoaiSanPham = new ComboBox();
+            rdbngungban = new RadioButton();
+            rdbhoatdong = new RadioButton();
+            txtdongia = new MaskedTextBox();
             btbreset = new Guna.UI2.WinForms.Guna2Button();
             btbxoa = new Guna.UI2.WinForms.Guna2Button();
             btbsua = new Guna.UI2.WinForms.Guna2Button();
             btbthem = new Guna.UI2.WinForms.Guna2Button();
-            txtloaisanpham = new Guna.UI2.WinForms.Guna2TextBox();
-            txtdongia = new Guna.UI2.WinForms.Guna2TextBox();
             txttensanpham = new Guna.UI2.WinForms.Guna2TextBox();
             txtmasanpham = new Guna.UI2.WinForms.Guna2TextBox();
-            checkBox2 = new CheckBox();
-            checkBox1 = new CheckBox();
             label6 = new Label();
             label5 = new Label();
             label4 = new Label();
@@ -90,16 +86,16 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(cboLoaiSanPham);
+            groupBox1.Controls.Add(rdbngungban);
+            groupBox1.Controls.Add(rdbhoatdong);
+            groupBox1.Controls.Add(txtdongia);
             groupBox1.Controls.Add(btbreset);
             groupBox1.Controls.Add(btbxoa);
             groupBox1.Controls.Add(btbsua);
             groupBox1.Controls.Add(btbthem);
-            groupBox1.Controls.Add(txtloaisanpham);
-            groupBox1.Controls.Add(txtdongia);
             groupBox1.Controls.Add(txttensanpham);
             groupBox1.Controls.Add(txtmasanpham);
-            groupBox1.Controls.Add(checkBox2);
-            groupBox1.Controls.Add(checkBox1);
             groupBox1.Controls.Add(label6);
             groupBox1.Controls.Add(label5);
             groupBox1.Controls.Add(label4);
@@ -112,6 +108,43 @@
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
             groupBox1.Text = "Thông tin sản phẩm";
+            // 
+            // cboLoaiSanPham
+            // 
+            cboLoaiSanPham.FormattingEnabled = true;
+            cboLoaiSanPham.Location = new Point(12, 317);
+            cboLoaiSanPham.Name = "cboLoaiSanPham";
+            cboLoaiSanPham.Size = new Size(378, 28);
+            cboLoaiSanPham.TabIndex = 18;
+            // 
+            // rdbngungban
+            // 
+            rdbngungban.AutoSize = true;
+            rdbngungban.Location = new Point(247, 423);
+            rdbngungban.Name = "rdbngungban";
+            rdbngungban.Size = new Size(105, 24);
+            rdbngungban.TabIndex = 17;
+            rdbngungban.TabStop = true;
+            rdbngungban.Text = "Ngưng bán";
+            rdbngungban.UseVisualStyleBackColor = true;
+            // 
+            // rdbhoatdong
+            // 
+            rdbhoatdong.AutoSize = true;
+            rdbhoatdong.Location = new Point(130, 425);
+            rdbhoatdong.Name = "rdbhoatdong";
+            rdbhoatdong.Size = new Size(102, 24);
+            rdbhoatdong.TabIndex = 3;
+            rdbhoatdong.TabStop = true;
+            rdbhoatdong.Text = "Hoạt động";
+            rdbhoatdong.UseVisualStyleBackColor = true;
+            // 
+            // txtdongia
+            // 
+            txtdongia.Location = new Point(12, 249);
+            txtdongia.Name = "txtdongia";
+            txtdongia.Size = new Size(378, 27);
+            txtdongia.TabIndex = 16;
             // 
             // btbreset
             // 
@@ -146,6 +179,7 @@
             btbxoa.Size = new Size(162, 49);
             btbxoa.TabIndex = 13;
             btbxoa.Text = "Xóa";
+            btbxoa.Click += btbxoa_Click;
             // 
             // btbsua
             // 
@@ -163,6 +197,7 @@
             btbsua.Size = new Size(162, 49);
             btbsua.TabIndex = 12;
             btbsua.Text = "Sửa";
+            btbsua.Click += btbsua_Click;
             // 
             // btbthem
             // 
@@ -182,51 +217,9 @@
             btbthem.Text = "Thêm";
             btbthem.Click += btbthem_Click;
             // 
-            // txtloaisanpham
-            // 
-            txtloaisanpham.CustomizableEdges = customizableEdges9;
-            txtloaisanpham.DefaultText = "";
-            txtloaisanpham.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtloaisanpham.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtloaisanpham.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtloaisanpham.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtloaisanpham.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtloaisanpham.Font = new Font("Segoe UI", 9F);
-            txtloaisanpham.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtloaisanpham.Location = new Point(12, 346);
-            txtloaisanpham.Margin = new Padding(3, 4, 3, 4);
-            txtloaisanpham.Name = "txtloaisanpham";
-            txtloaisanpham.PasswordChar = '\0';
-            txtloaisanpham.PlaceholderText = "";
-            txtloaisanpham.SelectedText = "";
-            txtloaisanpham.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            txtloaisanpham.Size = new Size(378, 60);
-            txtloaisanpham.TabIndex = 10;
-            // 
-            // txtdongia
-            // 
-            txtdongia.CustomizableEdges = customizableEdges11;
-            txtdongia.DefaultText = "";
-            txtdongia.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
-            txtdongia.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
-            txtdongia.DisabledState.ForeColor = Color.FromArgb(138, 138, 138);
-            txtdongia.DisabledState.PlaceholderForeColor = Color.FromArgb(138, 138, 138);
-            txtdongia.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtdongia.Font = new Font("Segoe UI", 9F);
-            txtdongia.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            txtdongia.Location = new Point(12, 250);
-            txtdongia.Margin = new Padding(3, 4, 3, 4);
-            txtdongia.Name = "txtdongia";
-            txtdongia.PasswordChar = '\0';
-            txtdongia.PlaceholderText = "";
-            txtdongia.SelectedText = "";
-            txtdongia.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            txtdongia.Size = new Size(378, 60);
-            txtdongia.TabIndex = 9;
-            // 
             // txttensanpham
             // 
-            txttensanpham.CustomizableEdges = customizableEdges13;
+            txttensanpham.CustomizableEdges = customizableEdges9;
             txttensanpham.DefaultText = "";
             txttensanpham.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txttensanpham.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -241,13 +234,13 @@
             txttensanpham.PasswordChar = '\0';
             txttensanpham.PlaceholderText = "";
             txttensanpham.SelectedText = "";
-            txttensanpham.ShadowDecoration.CustomizableEdges = customizableEdges14;
+            txttensanpham.ShadowDecoration.CustomizableEdges = customizableEdges10;
             txttensanpham.Size = new Size(378, 60);
             txttensanpham.TabIndex = 8;
             // 
             // txtmasanpham
             // 
-            txtmasanpham.CustomizableEdges = customizableEdges15;
+            txtmasanpham.CustomizableEdges = customizableEdges11;
             txtmasanpham.DefaultText = "";
             txtmasanpham.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txtmasanpham.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -262,29 +255,9 @@
             txtmasanpham.PasswordChar = '\0';
             txtmasanpham.PlaceholderText = "";
             txtmasanpham.SelectedText = "";
-            txtmasanpham.ShadowDecoration.CustomizableEdges = customizableEdges16;
+            txtmasanpham.ShadowDecoration.CustomizableEdges = customizableEdges12;
             txtmasanpham.Size = new Size(378, 60);
             txtmasanpham.TabIndex = 7;
-            // 
-            // checkBox2
-            // 
-            checkBox2.AutoSize = true;
-            checkBox2.Location = new Point(272, 425);
-            checkBox2.Name = "checkBox2";
-            checkBox2.Size = new Size(118, 24);
-            checkBox2.TabIndex = 6;
-            checkBox2.Text = "Ngưng Động";
-            checkBox2.UseVisualStyleBackColor = true;
-            // 
-            // checkBox1
-            // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(134, 425);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(105, 24);
-            checkBox1.TabIndex = 5;
-            checkBox1.Text = "Hoạt Động";
-            checkBox1.UseVisualStyleBackColor = true;
             // 
             // label6
             // 
@@ -298,7 +271,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(12, 322);
+            label5.Location = new Point(12, 294);
             label5.Name = "label5";
             label5.Size = new Size(106, 20);
             label5.TabIndex = 3;
@@ -347,7 +320,7 @@
             // txttim
             // 
             txttim.Anchor = AnchorStyles.Left;
-            txttim.CustomizableEdges = customizableEdges17;
+            txttim.CustomizableEdges = customizableEdges13;
             txttim.DefaultText = "";
             txttim.DisabledState.BorderColor = Color.FromArgb(208, 208, 208);
             txttim.DisabledState.FillColor = Color.FromArgb(226, 226, 226);
@@ -362,14 +335,14 @@
             txttim.PasswordChar = '\0';
             txttim.PlaceholderText = "";
             txttim.SelectedText = "";
-            txttim.ShadowDecoration.CustomizableEdges = customizableEdges18;
+            txttim.ShadowDecoration.CustomizableEdges = customizableEdges14;
             txttim.Size = new Size(383, 36);
             txttim.TabIndex = 12;
             txttim.TextAlign = HorizontalAlignment.Center;
             // 
             // btbtim
             // 
-            btbtim.CustomizableEdges = customizableEdges19;
+            btbtim.CustomizableEdges = customizableEdges15;
             btbtim.DisabledState.BorderColor = Color.DarkGray;
             btbtim.DisabledState.CustomBorderColor = Color.DarkGray;
             btbtim.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
@@ -379,7 +352,7 @@
             btbtim.ForeColor = Color.White;
             btbtim.Location = new Point(751, 15);
             btbtim.Name = "btbtim";
-            btbtim.ShadowDecoration.CustomizableEdges = customizableEdges20;
+            btbtim.ShadowDecoration.CustomizableEdges = customizableEdges16;
             btbtim.Size = new Size(69, 36);
             btbtim.TabIndex = 11;
             btbtim.Text = "Tìm";
@@ -435,6 +408,7 @@
             dgvdanhsachsanpham.ThemeStyle.RowsStyle.Height = 29;
             dgvdanhsachsanpham.ThemeStyle.RowsStyle.SelectionBackColor = Color.FromArgb(231, 229, 255);
             dgvdanhsachsanpham.ThemeStyle.RowsStyle.SelectionForeColor = Color.FromArgb(71, 69, 94);
+            dgvdanhsachsanpham.CellDoubleClick += dgvdanhsachsanpham_CellDoubleClick;
             // 
             // frmSanPham
             // 
@@ -446,6 +420,7 @@
             Controls.Add(label1);
             Name = "frmSanPham";
             Text = "frmSanPham";
+            Load += frmSanPham_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
@@ -458,12 +433,8 @@
         private Label label1;
         private GroupBox groupBox1;
         private GroupBox groupBox2;
-        private Guna.UI2.WinForms.Guna2TextBox txtloaisanpham;
-        private Guna.UI2.WinForms.Guna2TextBox txtdongia;
         private Guna.UI2.WinForms.Guna2TextBox txttensanpham;
         private Guna.UI2.WinForms.Guna2TextBox txtmasanpham;
-        private CheckBox checkBox2;
-        private CheckBox checkBox1;
         private Label label6;
         private Label label5;
         private Label label4;
@@ -476,5 +447,9 @@
         private Guna.UI2.WinForms.Guna2DataGridView dgvdanhsachsanpham;
         private Guna.UI2.WinForms.Guna2Button btbtim;
         private Guna.UI2.WinForms.Guna2TextBox txttim;
+        private MaskedTextBox txtdongia;
+        private RadioButton rdbngungban;
+        private RadioButton rdbhoatdong;
+        private ComboBox cboLoaiSanPham;
     }
 }

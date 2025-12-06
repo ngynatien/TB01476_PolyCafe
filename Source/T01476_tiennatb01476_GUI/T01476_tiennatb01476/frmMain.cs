@@ -54,5 +54,10 @@ namespace GUI_Poly
         {
             openChildForm(new frmSanPham());
         }
+
+        private void loạiSảnPhẩmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openChildForm(new frmLoaiSanPham());
+        }
     }
 }
